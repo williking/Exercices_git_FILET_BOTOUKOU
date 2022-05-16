@@ -1,4 +1,4 @@
-bonjour, ce docuent sur le branche "feat-dev1"
-modification du fichier "data02"
+Hey, ce document est un fichier texte "data02"
+Il se trouve sur la branche feat-dev2
 
 dans l'exo 5, il faut modifier ce document texte 
