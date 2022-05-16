@@ -9,5 +9,8 @@ test sur l'exo 7 des branches
 
 hello nous sommes sur la branche feat-dev2
 
+nous sommes dans le projet2, on modifie la branche master
+
+
 
 
