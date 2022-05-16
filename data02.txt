@@ -1,1 +1,2 @@
 bonjour, ce docuent est un fichier texte "data02"
+On test la modification du fichier
