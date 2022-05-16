@@ -1,5 +1,6 @@
-Première modification du fichier dans l'exo 1
-On poursuit la modification dans l'exo 2, ceci est un test
+Hello ! Nous sommes dans github
+Première modification du fichier dans l'exo 1 -- cette phrase est pour l'exo 10
+On poursuit la modification dans l'exo 2, ceci est un test -- github branch master exo 10
 
 On test la relation entre le dépot distant et le dépot local
 
