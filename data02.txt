@@ -1,4 +1,4 @@
-bonjour, ce docuent est un fichier texte "data02"
-On test la modification du fichier
+bonjour, ce docuent sur le branche "feat-dev1"
+modification du fichier "data02"
 
 dans l'exo 5, il faut modifier ce document texte 
