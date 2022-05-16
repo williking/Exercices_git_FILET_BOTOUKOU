@@ -1,2 +1,4 @@
 bonjour, ce docuent est un fichier texte "data02"
 On test la modification du fichier
+
+dans l'exo 5, il faut modifier ce document texte 
