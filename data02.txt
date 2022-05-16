@@ -4,3 +4,5 @@ Il se trouve sur la branche feat-dev2
 dans l'exo 5, il faut modifier ce document texte 
 
 toujours dans l'exo 9 dans la branche feat-dev2 projet git
+
+Hey github :) !
