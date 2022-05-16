@@ -1,8 +1,8 @@
 Première modification du fichier dans l'exo 1
-On poursuit la modification dans l'exo 2, ceci est un test
+On poursuit la modification dans l'exo 2, ceci est un test -- ici c'est la branche local
 
-On test la relation entre le dépot distant et le dépot local
-
+On test la relation entre le dépot distant et le dépot local -- on modifie quelques lignes en local pour l'exo 10
+-- l'exo est bientot terminé
 Annuler les modification de "data01" avant commit
 
 test sur l'exo 7 des branches
