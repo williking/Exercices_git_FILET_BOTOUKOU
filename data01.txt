@@ -13,6 +13,8 @@ ce message provient du projet-git-2 de la branche feat dev2
 
 Bienvenur dans gihub le monde :D !
 
+suite des instructions exo 10
+
 
 
 
